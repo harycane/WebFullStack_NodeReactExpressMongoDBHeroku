@@ -1,0 +1,2 @@
+# FullStack_SurveyMonkeyClone_NodeReact
+Developed a full stack survey software web app using (MongoDB with Mongoose.js/Express/React.js/Node.js). Coded Google OAuth sign in using Passport.js, authenticating users with npm's cookie-session in the server, while updating redux store on client using actions. Implementing payments using Stripe API and surveys using Mongoose. Deployed the web app on Heroku.
